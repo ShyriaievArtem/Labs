@@ -1,0 +1,67 @@
+{
+  "name": "NTU DP",
+  "faculties": [
+    {
+      "name": "Information technologies",
+      "dean": {
+        "firstName": "Artem",
+        "lastName": "Shyriaiev",
+        "patronymic": "Oleksandrovich",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "Системного аналізу",
+          "head": {
+            "firstName": "Artem",
+            "lastName": "Shyriaiev",
+            "patronymic": "Oleksandrovich",
+            "sex": "MALE"
+          },
+          "students": [
+            {
+              "firstName": "Artem",
+              "lastName": "Shyriaiev",
+              "patronymic": "Oleksandrovich",
+              "sex": "MALE",
+              "group": {
+                "name": "124-20-2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financially economical",
+      "dean": {
+        "firstName": "Olena",
+        "lastName": "Pavlova",
+        "patronymic": "Yuryivna",
+        "sex": "FEMALE"
+      },
+      "departments": [
+        {
+          "name": "Marketing",
+          "head": {
+            "firstName": "Olena",
+            "lastName": "Pavlova",
+            "patronymic": "Yuryivna",
+            "sex": "FEMALE"
+          },
+          "students": [
+            {
+              "firstName": "Olena",
+              "lastName": "Pavlova",
+              "patronymic": "Yuryivna",
+              "sex": "FEMALE",
+              "group": {
+                "name": "075-20-1"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
